@@ -1,0 +1,4 @@
+rootProject.name = 'UI-Library-OpenJFX'
+include 'core'
+include 'Simple'
+
