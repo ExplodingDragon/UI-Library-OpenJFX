@@ -1,0 +1,17 @@
+.windowButton{
+-fx-background-color: #00000000;
+}
+.windowButton:hover{
+    -fx-background-color: rgba(0, 0, 0, 0.1);
+}
+.windowButton:pressed{
+    -fx-background-color: rgba(0, 0, 0, 0.2);
+}
+.windowExitButton:hover{
+    -fx-background-color: rgb(255, 2, 0);
+}
+.windowExitButton:pressed{
+    -fx-background-color: rgba(255, 2, 0, 0.65);
+}
+.windowButtonImage{
+}

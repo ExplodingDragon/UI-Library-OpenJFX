@@ -19,6 +19,7 @@ buildscript {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
 }
+
 repositories {
     mavenLocal()
     maven { url 'https://maven.aliyun.com/repository/public/' }

@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dce91c8-c9d4-4653-a89b-6a9b43a8e8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/fJavafx/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/fJavafx/window/WindowBox.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/drawable/f_window_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/drawable/f_window_max.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/drawable/f_window_maxed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/drawable/f_window_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/drawable/f_window_min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/drawable/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/layout/window.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/res/values/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple/src/main/java/top/fksoft/simple/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple/src/main/java/top/fksoft/simple/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -77,25 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -110,24 +103,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Simple/build.gradle">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/fJavafx/Info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/fJavafx/window/WindowBox.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#24#107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/layout/window.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/values/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Simple/src/main/java/top/fksoft/simple/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="342">
+              <caret line="26" column="101" selection-start-line="26" selection-start-column="101" selection-end-line="26" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/drawable/f_window_maxed.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -150,6 +179,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -159,13 +190,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/core/build.gradle" />
         <option value="$PROJECT_DIR$/simple/build.gradle" />
         <option value="$PROJECT_DIR$/simple/src/main/java/top/fksoft/simple/Main.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/Simple/build.gradle" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/core/src/main/java/top/fksoft/UiLibrary/JavaFX/Info.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/top/fksoft/UiLibrary/JavaFX/window/JFWindow.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/top/fksoft/UiLibrary/JavaFX/window/Activity.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/fjavafx/window/Activity.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/fJavafx/window/Activity.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/fJavafx/window/WindowBox.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/res/window.fxml" />
+        <option value="$PROJECT_DIR$/core/src/main/resources/res/values/style.css" />
+        <option value="$PROJECT_DIR$/Simple/src/main/java/top/fksoft/simple/Main.java" />
       </list>
     </option>
   </component>
@@ -180,6 +220,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UI-Library-OpenJFX" type="58d84e3e:PackageViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="58d84e3e:PackageViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="UI-Library-OpenJFX.core.main" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +261,80 @@
               <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fJavafx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fJavafx" type="462c0819:PsiDirectoryNode" />
+              <item name="window" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="drawable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
@@ -238,12 +369,19 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UI-Library-OpenJFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Library-OpenJFX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Simple" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,21 +389,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/Software/SoftData/AndroidSDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/core/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/core/src/main/resources/res/drawable" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\Intellij\UI-Library-OpenJFX\core\src\main\resources\res\drawable" />
       <recent name="D:\Workspace\Intellij\UI-Library-OpenJFX\core\src" />
       <recent name="D:\Workspace\Intellij\UI-Library-OpenJFX\core\src\main" />
       <recent name="D:\Workspace\Intellij\UI-Library-OpenJFX\simple" />
       <recent name="D:\Workspace\Intellij\UI-Library-OpenJFX\core" />
-      <recent name="D:\Workspace\Intellij\UI-Library-OpenJFX" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\Intellij\UI-Library-OpenJFX\core\src\main\resources\res\layout" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,6 +422,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.Run Simple">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.fksoft.simple.Main" />
+      <module name="UI-Library-OpenJFX.Simple.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.fksoft.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run Simple" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -322,6 +476,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Run Simple" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.UI-Library-OpenJFX [dependencies]" />
       </list>
     </recent_temporary>
@@ -337,7 +492,10 @@
       <option name="presentableId" value="Default" />
       <updated>1571654433453</updated>
       <workItem from="1571654434974" duration="1616000" />
-      <workItem from="1571656207424" duration="429000" />
+      <workItem from="1571656207424" duration="2098000" />
+      <workItem from="1571727939890" duration="2285000" />
+      <workItem from="1571730231563" duration="3192000" />
+      <workItem from="1571734312232" duration="2346000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目.">
       <created>1571656369355</created>
@@ -346,17 +504,33 @@
       <option name="project" value="LOCAL" />
       <updated>1571656369355</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修复 README 语法错误.">
+      <created>1571656668996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571656668996</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2045000" />
+    <option name="totallyTimeSpent" value="11537000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.253212" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26284796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -369,13 +543,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3295711" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946466" weight="0.3295711" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005353" side_tool="true" weight="0.3295711" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3295711" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -388,6 +562,7 @@
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Preview" order="12" weight="0.32976446" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,28 +570,91 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目." />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化项目." />
+    <MESSAGE value="修复 README 语法错误." />
+    <option name="LAST_COMMIT_MESSAGE" value="修复 README 语法错误." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Simple/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/Simple/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1463">
+            <caret line="77" column="3" selection-end-line="77" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Simple/src/main/java/top/fksoft/simple/Main.java">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/fJavafx/window/Activity.kt" />
+    <entry file="jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.212-3/jre/lib/ext/jfxrt.jar!/javafx/scene/layout/VBox.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="114">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.212-3/jre/lib/ext/jfxrt.jar!/javafx/scene/layout/Pane.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.212-3/jre/lib/ext/jfxrt.jar!/javafx/scene/Parent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14535">
+          <caret line="893" column="14" selection-start-line="893" selection-start-column="14" selection-end-line="893" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/RedHat/java-1.8.0-openjdk-1.8.0.212-3/jre/lib/ext/jfxrt.jar!/javafx/scene/layout/Region.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="619" column="19" selection-start-line="619" selection-start-column="19" selection-end-line="619" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/drawable/win_min.svg" />
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/drawable/max_1_window.png" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/fJavafx/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/fJavafx/window/WindowBox.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#24#107#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -431,27 +669,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/drawable/f_window_maxed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/layout/window.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="729">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/res/values/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Simple/build.gradle">
+    <entry file="file://$PROJECT_DIR$/Simple/src/main/java/top/fksoft/simple/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="342">
+          <caret line="26" column="101" selection-start-line="26" selection-start-column="101" selection-end-line="26" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
